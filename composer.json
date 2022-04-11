@@ -1,6 +1,6 @@
 {
     "name": "staabm/http-cache-control",
-    "description": "A tiny lib which provides documented constants and example use-cases for the HTTP `Cache-Control` header.",
+    "description": "A tiny lib which provides documented constants and example use-cases for the HTTP Cache-Control header.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
